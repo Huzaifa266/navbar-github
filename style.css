@@ -1,0 +1,56 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+#main{
+    background-color: whitesmoke;
+    height: 80px;
+    width: 1420px;
+
+
+ }
+ div{
+    height: 60px;
+    width: 1400px;
+    background-color: #0f1111;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+    
+    
+ }
+ #one{
+    
+    color: #f08804;
+    text-decoration: none;
+    
+   
+    font-size: 25px;
+ }
+ #two{
+    
+    color: bisque;
+    text-decoration: none;
+ }
+ #three{
+    
+    color: bisque;
+    text-decoration: none;
+ }
+ #four{
+    
+    color: bisque;
+    text-decoration: none;
+ }
+ #search{
+    
+ }
+ #five{
+    padding-right: 20px;
+    background-color: #f08804;
+    color: bisque;
+    
+ }
+ a{
+    margin: 100px;
+ }
